@@ -17,4 +17,4 @@ Put
 ลบสินค้าได้
 DELETE
 <img width="1382" height="633" alt="image" src="https://github.com/user-attachments/assets/58585d53-aa3d-43ce-8ea2-08e04a6922f4" />
-<img width="1382" height="633" alt="image" src="https://github.com/user-attachments/assets/cab6f861-5cc1-4004-a244-35db8080db8b" />
+<img width="1194" height="74" alt="image" src="https://github.com/user-attachments/assets/112557b7-6e36-4503-8f7f-aa4421ffb57b" />
